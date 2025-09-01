@@ -5,4 +5,8 @@ mysql-connector-python
 pymysql
 scikit-learn
 cryptography
+ipykernel
+seaborn
+catboost
+xgboost
 -e .
