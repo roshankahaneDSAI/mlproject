@@ -10,4 +10,7 @@ seaborn
 catboost
 xgboost
 mlflow
+flask
+# pickle
+# dill
 # -e .
